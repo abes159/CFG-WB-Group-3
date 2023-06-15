@@ -1,0 +1,50 @@
+.table{
+    width: 50%;
+    margin-right: 22%;
+    margin-left: auto; 
+    padding: 50px;
+        
+    }
+    
+    .td,form,h3{
+        width: 50%;
+        margin-right: auto;
+        margin-left: auto;
+        padding:50px;
+    }
+    
+#mountainBike{
+    width: 50%;
+    margin-left: 10px;
+    padding: 100px;
+   
+        
+    }
+
+
+#kidsBike{
+        width: 50%;
+        margin-left: 10px;
+        padding: 100px;
+      
+        
+    }
+
+
+#womens{
+        width: 50%;
+        margin-left: 10px;
+        padding: 100px;
+     
+       
+        
+    }
+
+ .imageTextL{
+    
+    margin-left: 1000px;
+    margin-top: -400px;
+    padding: 10px;
+        
+    }
+    
